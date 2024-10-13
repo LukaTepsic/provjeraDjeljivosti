@@ -1,0 +1,7 @@
+C:\Users\Tepob\source\repos\provjeraDjeljivosti\provjeraDjeljivosti\bin\Debug\provjeraDjeljivosti.exe.config
+C:\Users\Tepob\source\repos\provjeraDjeljivosti\provjeraDjeljivosti\bin\Debug\provjeraDjeljivosti.exe
+C:\Users\Tepob\source\repos\provjeraDjeljivosti\provjeraDjeljivosti\bin\Debug\provjeraDjeljivosti.pdb
+C:\Users\Tepob\source\repos\provjeraDjeljivosti\provjeraDjeljivosti\obj\Debug\provjeraDjeljivosti.csproj.AssemblyReference.cache
+C:\Users\Tepob\source\repos\provjeraDjeljivosti\provjeraDjeljivosti\obj\Debug\provjeraDjeljivosti.csproj.CoreCompileInputs.cache
+C:\Users\Tepob\source\repos\provjeraDjeljivosti\provjeraDjeljivosti\obj\Debug\provjeraDjeljivosti.exe
+C:\Users\Tepob\source\repos\provjeraDjeljivosti\provjeraDjeljivosti\obj\Debug\provjeraDjeljivosti.pdb
